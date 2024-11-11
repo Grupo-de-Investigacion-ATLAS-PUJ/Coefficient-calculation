@@ -1,3 +1,3 @@
-# Coefficient-calculation
-The coefficients of the polynomial are calculated for the approximation and transformation of the data.
-![image](https://github.com/user-attachments/assets/d5fc7c01-8855-4247-b491-50fff28d61fe)
+Polinomio ajustado (Temperatura = f(Microvoltaje)):
+           4             3             2
+3.496e-22 x - 2.722e-15 x + 8.104e-09 x - 0.01108 x + 5835
